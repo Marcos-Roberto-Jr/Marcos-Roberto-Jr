@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil Marcos Jr 😁
+## Bem-vindo(a) ao perfil de Marcos Jr 😁
 
   <div>
    <a href="https://github.com/Marcos-Roberto-Jr">
