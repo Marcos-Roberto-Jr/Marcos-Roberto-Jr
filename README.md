@@ -4,10 +4,11 @@
 - 💻 Atualmente cursando o DevQuest.
 - 💯 Estudando JS para aprimoramento.
 ##
+### 📊 Estatísticas
   <div>
    <a href="https://github.com/Marcos-Roberto-Jr">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Roberto-Jr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Roberto-Jr&layout=compact&langs_count=6&theme=cobalt"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Marcos-Roberto-Jr&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Marcos-Roberto-Jr&layout=compact&langs_count=6&theme=onedark"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -18,7 +19,7 @@
  
 <br>
  
-### Minhas redes sociais! 📱🚀
+### 📱 Minhas redes sociais. 🚀
  
 <div> 
   <a href="https://www.instagram.com/marcos.robertofjr/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
